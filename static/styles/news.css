@@ -1,0 +1,65 @@
+body, h1, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+/* CSS styles for the language switcher */
+#language-switcher {
+    position: relative;
+    z-index: 9999;
+    /* Add additional styles as needed */
+}
+  
+  /* Basic styling */
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  header {
+    background: #e9efe1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 26px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .news ul {
+    list-style: none;
+    margin-bottom: 30px;
+  }
+  
+  .news li {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+  }
+  
+  .news li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .news li p {
+    color: #777;
+    margin-top: 10px;
+  }
+  
+  footer {
+    background: #e9efe1;
+    padding: 20px;
+    text-align: center;
+    color: #777;
+    font-size: 14px;
+  }
